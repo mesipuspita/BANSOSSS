@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".register"
+    android:background="@drawable/splash"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome Onboard!"
+        android:fontFamily="@font/poppins_semibold"
+        android:textSize="18dp"
+        android:textColor="@color/black"
+        android:layout_marginTop="180dp"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Silahkan Daftar Akun "
+        android:fontFamily="@font/poppins"
+        android:textColor="@color/black"/>
+    <EditText
+        android:id="@+id/txtnameregister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="Enter your full name"
+        android:fontFamily="@font/poppins"
+        android:paddingLeft="20dp"
+        android:textColor="@color/black"
+        android:inputType="textPersonName"
+        android:background="@drawable/ic_form_input_register"/>
+    <EditText
+        android:id="@+id/txtemailregister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="Enter your email"
+        android:inputType="textEmailAddress"
+        android:fontFamily="@font/poppins"
+        android:paddingLeft="20dp"
+        android:textColor="@color/black"
+        android:background="@drawable/ic_form_input_register"/>
+    <EditText
+        android:id="@+id/txtpasswordregister"
+        android:inputType="textPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins"
+        android:layout_marginTop="20dp"
+        android:hint="Enter your password"
+        android:paddingLeft="20dp"
+        android:textColor="@color/black"
+        android:background="@drawable/ic_form_input_register"/>
+    <EditText
+        android:id="@+id/txtpasswordconfirmregister"
+        android:inputType="textPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/poppins"
+        android:hint="Confirm password"
+        android:paddingLeft="20dp"
+        android:textColor="@color/black"
+        android:background="@drawable/ic_form_input_register"/>
+    <ImageButton
+        android:id="@+id/btnregisterregister"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_button_register"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins"
+            android:text="Already have an account ? "
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/txtsigninregister"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins"
+            android:text="Sign In"
+            android:textColor="@color/ijo"/>
+
+    </LinearLayout>
+
+</LinearLayout>

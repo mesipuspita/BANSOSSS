@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520429476345",
+    "project_id": "bantuan-sosial",
+    "storage_bucket": "bantuan-sosial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520429476345:android:d9915640ae161dcef20528",
+        "android_client_info": {
+          "package_name": "com.example.bansos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520429476345-rbrq7e82o8uufm4fg2ommn00pei44ob4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDO8EiUNcNKlp5t9rSbXimBzt8ARoHuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520429476345-rbrq7e82o8uufm4fg2ommn00pei44ob4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

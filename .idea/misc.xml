@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DINI/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_forgot.xml" value="0.259375" />
+        <entry key="..\:/Users/DINI/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/Users/DINI/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/DINI/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_main_menu.xml" value="0.259375" />
+        <entry key="..\:/Users/DINI/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/drawable-nodpi/_bg__blt__bantuan_langsung_tunai__ek2_shape.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/drawable-nodpi/line_1_ek1_shape.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/drawable-nodpi/rectangle_24_ek1_shape.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/drawable-v24/group_40.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/drawable-v24/ic_logo_splash.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/drawable/dash.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/drawable/header.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/drawable/ic_btn_bantuan_non_tunai_state_off.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/drawable/jbh.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/drawable/kip.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_blt.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_bnt.xml" value="0.18" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_forgot.xml" value="0.25" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_formshow.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_jkn.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_kip.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_nontunai.xml" value="0.25" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/layout/activity_register.xml" value="0.12" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/layout/coba.xml" value="0.25" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/bansos_java/app/src/main/res/layout/dashboard.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
